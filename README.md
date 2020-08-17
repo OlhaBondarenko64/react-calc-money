@@ -1,3 +1,5 @@
+https://olhabondarenko64.github.io/react-calc-money/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
